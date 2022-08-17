@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sachin-yadav-1 
-- 🌱 MERN Stack
-- 📫 sachin.y4dav@gmail.com
+- 👋 Hi, I’m Sachin Yadav. 
+- 🌱 I am a MERN stack developer.
+- 📫 Reach me: sachin.y4dav@gmail.com
