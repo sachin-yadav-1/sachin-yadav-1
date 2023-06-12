@@ -6,11 +6,11 @@
 
 ## Technologies
 
-| ###Backend   | ###Frontend                     | ###Datatbases | ###Extras |
-|--------------|---------------------------------|---------------|-----------|
-| NodeJs       | ReactJS                         | MongoDB       | AWS       |
-| NestJS       | Redux                           | MySQL         | Docker    |
-| ExpressJS    | UI Libraries: Chakra UI, MUI    | Redis         |           |
+| Backend   | Frontend                     | Datatbases | Extras |
+|-----------|------------------------------|------------|--------|
+| NodeJs    | ReactJS                      | MongoDB    | AWS    |
+| NestJS    | Redux                        | MySQL      | Docker |
+| ExpressJS | UI Libraries: Chakra UI, MUI | Redis      |        |
 
 ## About
 I'm a skilled Full Stack Web Developer with over 2 years of experience in the industry. I specialize in the MERN stack (MongoDB, Express.js, React.js, and Node.js) and have a strong passion for creating innovative and user-friendly web applications.
