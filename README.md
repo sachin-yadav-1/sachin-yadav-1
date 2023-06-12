@@ -1,4 +1,4 @@
-👋 Hello! I'm Sachin Yadav
+# 👋 Hello! I'm Sachin Yadav
 
 ## Contact
 - 📍 Mississauga, Ontario, Canada
@@ -12,7 +12,7 @@
 | NestJS       | Redux                           | MySQL         | Docker    |
 | ExpressJS    | UI Libraries: Chakra UI, MUI    | Redis         |           |
 
-# About
+## About
 I'm a skilled Full Stack Web Developer with over 2 years of experience in the industry. I specialize in the MERN stack (MongoDB, Express.js, React.js, and Node.js) and have a strong passion for creating innovative and user-friendly web applications.
 
 Throughout my career, I have had the opportunity to work with startups, where I played a pivotal role in building products from scratch. With my comprehensive skill set and attention to detail, I have successfully delivered high-quality solutions that meet client requirements and exceed expectations.
