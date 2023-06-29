@@ -6,6 +6,8 @@
 
 ## Technologies
 
+| Category  | Technologies                                 |
+|-----------|----------------------------------------------|
 | Languages | Javascript, Typescript                       |
 | Backend   | Nodejs, Nestjs, Expressjs                    |
 | Frontend  | Reactjs, Redux, Redux Toolkit, UI Libraries  |
