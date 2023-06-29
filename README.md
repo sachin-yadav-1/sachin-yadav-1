@@ -1,7 +1,7 @@
 👋 Hello!
 
 ## Contact
-- 📍 Mississauga, Ontario, Canada
+- 📍 Ontario, Canada
 - 📫 sachin.y4dav@gmail.com 
 
 ## Technologies
