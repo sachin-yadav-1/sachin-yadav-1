@@ -1,7 +1,6 @@
 👋 Hello!
 
 ## Contact
-- 📍 Ontario, Canada
 - 📫 sachin.y4dav@gmail.com 
 
 ## Technologies
